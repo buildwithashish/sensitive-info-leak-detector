@@ -29,7 +29,7 @@
                             prerequisites - maven path should be set
                             cd PATH_2
                             mvn clean package
-                            java -jar target/SIS-1.0.jar /Users/asgupta6/code/cisco/storm-eng/ems-assurance ems-reports.txt
+                            java -jar target/SIScan-1.0.jar /Users/asgupta6/code/cisco/storm-eng/ems-assurance ems-reports.txt
 
 # What this tool does
     -- Java Files: It detects sensitive attributes in the Java class fields, checks if these attributes are logged, and reports them.
